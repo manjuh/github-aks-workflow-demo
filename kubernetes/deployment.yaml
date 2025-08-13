@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: todo-app-03
-        image: trainingapcacr.azurecr.io/todo-app:trainingxx-x
+        image: trainingapcacr.azurecr.io/todo-app:training03-2
         imagePullPolicy: Always
         ports:
         - containerPort: 3000
